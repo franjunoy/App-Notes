@@ -1,5 +1,7 @@
 Full-Stack Notes App
 
+(AppNotes.jpg)
+
 This repository contains a full-stack application built with NestJS for the backend and React.js with Redux for the frontend. It allows users to manage notes, including creating, updating, archiving, and deleting them.
 
 Project Structure
